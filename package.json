@@ -7,18 +7,19 @@
   },
   "name": "praticetime",
   "version": "1.0.0",
-  "description": "pratice webpage ",
+  "description": "pratice about mern",
   "main": "index.js",
+  "devDependencies": {},
   "scripts": {
-    "start": "node Backend/server.js",
+    "start":  "node ./backend/server.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Natesh",
-  "license": "ISC",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/natesh16/praticetime.git"
   },
+  "author": "Natesh",
+  "license": "ISC",
   "bugs": {
     "url": "https://github.com/natesh16/praticetime/issues"
   },
